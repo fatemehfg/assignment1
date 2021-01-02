@@ -3,3 +3,5 @@
 }
  Fatemeh gholami
 991113042
+All work on assignments must be done individually unless stated otherwise.You are encouraged to discuss with your classmates about te given assignments,but these discussions should be carried out in an abstract way.That is , discussions related to a partcular solution to a specific problem(either in actual code or  in the pseudocode) will not be tolerated. In short ,turning in someone else's work, in whole or in part,as your own will be considerednas a violation of academic integrity.Please note that the former condition also holds or the material found on the web as everything on the web has been written by someone else.
+I acknowlege that i have fully read and underestood the contents of the course; I will not share my work (not even a part of it)on telegram; I will be resposible for what has been discussed/asked on telegram ; I underestand that if i have any questions or concerns about the course mechanics, it is my responsibility to discuss them with the instructors with in their office hours.
